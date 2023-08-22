@@ -75,6 +75,8 @@ todos os elementos da matriz e exibir o resultado.*/
     
 // }  
 // console.log(`A soma dos valores é: ${soma}`);
+
+
 let soma = 0;
 const pontos = [[2, 5, 8], [3, 9, 12], [4, 6, 10]];
 for (let indice = 0; indice < pontos.length; indice++) {
